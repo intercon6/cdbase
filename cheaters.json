@@ -9,6 +9,11 @@
         {
         "reason": "gamebanned but nonetheless",
         "date": "2026-02-01"
+        },
+        "[U:1:912519536]":
+        {
+        "reason": "AutoStrafe, NoPush and possibly CritHack",
+        "date": "2026-02-02"
         }
     }
 }
